@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Jason</h1>
 <h3 align="center">A Rails developer</h3>
 
-- 📝 I regulary write articles on [jasonj27.github.io](jasonj27.github.io)
+- 📝 I regulary write articles on [jasonj27.github.io](https://jasonj27.github.io/)
 
 - 📫 How to reach me **ssdog27@gmail.com**
+
+- 📄 [My resume](https://www.cakeresume.com/ssdog27)
 
 ### Technologies I've work with
 <p align="left">
