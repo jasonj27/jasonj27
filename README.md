@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **ssdog27@gmail.com**
 
-- 📄 [My resume](https://www.cakeresume.com/ssdog27)
+-  📄 [My resume](https://www.cakeresume.com/ssdog27)
 
 ### Technologies I've work with
 <p align="left">
