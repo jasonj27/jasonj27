@@ -21,6 +21,11 @@ Here are some ideas to get you started:
 
 -  📄 [My resume](https://www.cakeresume.com/ssdog27)
 
+### Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 ### Technologies I've work with
 <p align="left">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
