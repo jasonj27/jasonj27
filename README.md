@@ -23,6 +23,11 @@ Here are some ideas to get you started:
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [在Rails專案設定Travis-CI或Github action](https://jasonj27.github.io/2020/09/17/setup-travis-ci-or-github-action-for-a-rails-application-to-run-rspec-test-on-github/)
+- [如何在Rails裡使用Webpack?](https://jasonj27.github.io/2020/09/15/how-to-use-webpack-with-rails/)
+- [更新雙重開機(Windows, Linux)設定的shell script](https://jasonj27.github.io/2020/09/09/shell-script-for-update-grub.cfg-and-more/)
+- [使用Manjaro linux 的小訣竅](https://jasonj27.github.io/2020/09/09/my-tips-of-using-manjaro/)
+- [First Post](https://jasonj27.github.io/2020/03/11/first-post/)
 <!-- BLOG-POST-LIST:END -->
 
 
