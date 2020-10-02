@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CS50 2020 Week3: Algorithms Problem Answers](https://jasonj27.github.io/2020/10/03/cs50-week3/)
+- [CS50 2020 Week2: Arrays Problem Answers](https://jasonj27.github.io/2020/10/03/cs50-week2/)
 - [CS50 2020 Week1: C Problem Answers](https://jasonj27.github.io/2020/09/29/cs50-week1/)
 - [在Rails專案設定Travis-CI或Github action](https://jasonj27.github.io/2020/09/17/setup-travis-ci-or-github-action-for-a-rails-application-to-run-rspec-test-on-github/)
 - [如何在Rails裡使用Webpack?](https://jasonj27.github.io/2020/09/15/how-to-use-webpack-with-rails/)
-- [更新雙重開機(Windows, Linux)設定的shell script](https://jasonj27.github.io/2020/09/09/shell-script-for-update-grub.cfg-and-more/)
-- [使用Manjaro linux 的小訣竅](https://jasonj27.github.io/2020/09/09/my-tips-of-using-manjaro/)
 <!-- BLOG-POST-LIST:END -->
 
 
