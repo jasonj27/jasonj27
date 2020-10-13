@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CS50 2020 Week5: Data Structures Problem Answers](https://jasonj27.github.io/2020/10/13/cs50-week5/)
 - [CS50 2020 Week4: Memery Problem Answers](https://jasonj27.github.io/2020/10/05/cs50-week4/)
 - [CS50 2020 Week3: Algorithms Problem Answers](https://jasonj27.github.io/2020/10/03/cs50-week3/)
 - [CS50 2020 Week2: Arrays Problem Answers](https://jasonj27.github.io/2020/10/03/cs50-week2/)
 - [CS50 2020 Week1: C Problem Answers](https://jasonj27.github.io/2020/09/29/cs50-week1/)
-- [在Rails專案設定Travis-CI或Github action](https://jasonj27.github.io/2020/09/17/setup-travis-ci-or-github-action-for-a-rails-application-to-run-rspec-test-on-github/)
 <!-- BLOG-POST-LIST:END -->
 
 
