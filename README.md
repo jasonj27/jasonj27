@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CS50 2020 Week6: Python Problem Answers](https://jasonj27.github.io/2020/11/09/cs50-week6/)
 - [CS50 2020 Week5: Data Structures Problem Answers](https://jasonj27.github.io/2020/10/13/cs50-week5/)
 - [CS50 2020 Week4: Memery Problem Answers](https://jasonj27.github.io/2020/10/05/cs50-week4/)
 - [CS50 2020 Week3: Algorithms Problem Answers](https://jasonj27.github.io/2020/10/03/cs50-week3/)
 - [CS50 2020 Week2: Arrays Problem Answers](https://jasonj27.github.io/2020/10/03/cs50-week2/)
-- [CS50 2020 Week1: C Problem Answers](https://jasonj27.github.io/2020/09/29/cs50-week1/)
 <!-- BLOG-POST-LIST:END -->
 
 
